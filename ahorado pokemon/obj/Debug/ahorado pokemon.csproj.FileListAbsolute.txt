@@ -1,0 +1,11 @@
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\bin\Debug\ahorado pokemon.exe.config
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\bin\Debug\ahorado pokemon.exe
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\bin\Debug\ahorado pokemon.pdb
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\obj\Debug\ahorado pokemon.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\obj\Debug\ahorado pokemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\obj\Debug\ahorado pokemon.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\obj\Debug\ahorado pokemon.csproj.CopyComplete
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\obj\Debug\ahorado pokemon.exe
+C:\Users\angel\source\repos\ahorado pokemon\ahorado pokemon\obj\Debug\ahorado pokemon.pdb
