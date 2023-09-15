@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 
 //clase programa
 
+//clase programa 2
+
 class Program
 {
     static Random random = new Random(); //generar números aleatorios
