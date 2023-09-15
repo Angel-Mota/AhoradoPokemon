@@ -6,6 +6,9 @@ using System.Net.Http;
 using System.Linq;
 using System.Threading.Tasks;
 
+
+//clase programa
+
 class Program
 {
     static Random random = new Random(); //generar números aleatorios
